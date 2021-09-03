@@ -1,7 +1,7 @@
 
 # [Bluzzard](https://github.com/BluzzardTheWizard)
 
-	## "Dunno Don't care" - Bluzzard, Art of shitpost
+## "Dunno Don't care" - Bluzzard, Art of shitpost
 
 ### [Languages](https://github.com/BluzzardTheWizard)
  ![js](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=346eeb&labelColor=346eebE)
