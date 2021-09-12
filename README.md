@@ -6,7 +6,7 @@
 ---
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874906489440047125?borderRadius=20px&hideStatus=true&bg=1c1e29&idleMessage=Shitposting...)](https://discord.com/users/874906489440047125)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluzzardthewizard&show_icons=true&theme=prussian)](https://bluzzard.repl.co)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluzzardthewizard&show_icons=true&theme=algolia)](https://bluzzard.repl.co)
 
 
 
