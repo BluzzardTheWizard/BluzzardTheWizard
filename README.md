@@ -5,8 +5,8 @@
 
 ---
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874906489440047125?borderRadius=0px&hideStatus=true&bg=1c1e29&idleMessage=Shitposting...)](https://discord.com/users/874906489440047125)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluzzardthewizard&show_icons=true&theme=algolia&hide_border=true&borderRadius=20px)](https://bluzzard.repl.co)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874906489440047125?borderRadius=20px&hideStatus=true&bg=1c1e29&idleMessage=Shitposting...)](https://discord.com/users/874906489440047125)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluzzardthewizard&show_icons=true&theme=algolia&hide_border=true&border_radius=20px&bg_color=1c1e29&icon_color=fff)](https://bluzzard.repl.co)
 
 
 
