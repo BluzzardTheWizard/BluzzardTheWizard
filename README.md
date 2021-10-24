@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello I'm Bluzzard</h1>
 
-<p align="center" >I'm a web developer who makes <s>bad</s> simple websites.</p>
+<p align="center" >I'm a web developer who makes <a href="https://bluzzard.repl.co"><s>bad</s></a> simple websites.</p>
 
 ---
 
