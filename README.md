@@ -5,9 +5,7 @@
 
 ---
 
-[![](https://lanyard-profile-readme.vercel.app/api/862240917495087114?borderRadius=20px&hideStatus=true&bg=1c1e29&idleMessage=Shitposting...)](https://discord.com/users/862240917495087114)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluzzardthewizard&show_icons=true&theme=algolia&hide_border=true&border_radius=20px&bg_color=1c1e29&icon_color=fff)](https://bluzzard.repl.co)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BluzzardTheWizard&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=8495f3&fire=8495f3&currStreakLabel=8495f3&dates=8495f3&sideNums=8495f3&stroke==8495f3&background=0C24FF00&currStreakNum=8495f3&sideLabels=8495f3)](https://git.io/streak-stats)
 
 
 ---
