@@ -7,7 +7,7 @@
 <details>
   <summary>Links</summary>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/notBluzzard?color=8495f3&label=Followers%3A&logo=twitter&logoColor=8495f3&style=for-the-badge)](https://twitter.com/intent/user?screen_name=notbluzzard)   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyHYr1XB3d8NuEYyTvHV_Zw?color=8495f3&label=Subcribers%3A&logo=youtube&logoColor=8495f3&style=for-the-badge)](https://www.youtube.com/channel/UCyHYr1XB3d8NuEYyTvHV_Zw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/notBluzzard?color=8495f3&label=Twitter%3A&logo=twitter&logoColor=8495f3&style=for-the-badge)](https://twitter.com/intent/user?screen_name=notbluzzard)   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyHYr1XB3d8NuEYyTvHV_Zw?color=8495f3&label=Youtube%3A&logo=youtube&logoColor=8495f3&style=for-the-badge)](https://www.youtube.com/channel/UCyHYr1XB3d8NuEYyTvHV_Zw)
 
 
 </details>
