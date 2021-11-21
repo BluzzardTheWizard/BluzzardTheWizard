@@ -6,6 +6,12 @@
 ---
 
 <details>
+  <summary>Stats</summary>
+
+ ```[REDACTED]```
+</details>
+
+<details>
   <summary>Daily Use</summary>
 
  ```[REDACTED]```
